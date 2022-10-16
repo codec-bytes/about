@@ -1,4 +1,6 @@
-# Byte codecs
+:fax:
+Byte codecs
+==
 
 <p align="center">
 <a href="https://xkcd.com/841">
