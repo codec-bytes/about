@@ -9,6 +9,10 @@ Byte codecs
 © <a href="https://xkcd.com">xkcd.com</a>
 </p>
 
+## Codec errors
+
+  - [x] [@codec-bytes/error](https://github.com/codec-bytes/error)
+
 
 ## String codecs
 
